@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python virtual environments
+venv/
+venv310/
+eda_env/
+dtale_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
